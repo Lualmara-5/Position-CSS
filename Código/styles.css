@@ -4,8 +4,17 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.Nav {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    padding: 1em; 
+    text-align: center;
+    width: 100%;
+}
+
 .contenedor{
-    margin: 15vh auto;
+    margin: 8vh auto;
     border: 5px solid black;
     width: 300px;
 }

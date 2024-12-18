@@ -14,7 +14,9 @@ body {
 }
 
 .contenedor{
-    margin: 8vh auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15vh auto;
     border: 5px solid black;
     width: 300px;
 }
@@ -26,7 +28,7 @@ body {
     text-align: center;
     color: white;
 }
-
+/*Postion: Static, Relative, Absolute, Fixed, Sticky*/
 .caja-1 {
     background-color: #F4E04D; 
 }

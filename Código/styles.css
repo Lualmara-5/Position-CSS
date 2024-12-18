@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor{
+    margin: 15vh auto;
+    border: 5px solid black;
+    width: 300px;
+}
+
+.caja{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.caja-1 {
+    background-color: #F4E04D; 
+}
+
+.caja-2 {
+    background-color: #92A8D1; 
+}
+
+.caja-3 {
+    background-color: #FF6F61; 
+}
+
+.caja-4 {
+    background-color: #F7CAC9; /
+}
+
+.caja-5 {
+    background-color: #6B5B95; 
+}
+
+.caja-6 {
+    background-image: url('Gato.jpg');
+    background-size: cover; /*Importante*/
+    background-position: center;
+}

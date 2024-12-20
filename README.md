@@ -12,7 +12,7 @@ Este proyecto está inspirado en el boceto original de **Eureka Tutoriales** y a
 ---
 
 ### Vista previa:
-![Vista previa del proyecto](imágenes/hola.jpg)
+![Vista previa del proyecto](Imágenes/Portada_2.jpg)
 
 ---
 
